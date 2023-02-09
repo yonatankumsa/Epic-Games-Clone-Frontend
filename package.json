@@ -1,9 +1,9 @@
 {
   "name": "epic-games-clone",
   "version": "0.1.0",
-  "author": "AykutSarac",
+  "author": "yonatankumsa",
   "description": "Epic Games Launcher frontend clone made with React.",
-  "homepage": "https://aykutsarac.github.io/epic-games-clone",
+  "homepage": "https://github.com/yonatankumsa/Epic-Games-Clone-Frontend",
   "private": true,
   "keywords": [
     "epicgames",
@@ -31,8 +31,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
