@@ -25,7 +25,3 @@ $ npm start
 ## Author
 
 - Aykut Sarac
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [`LICENSE`](LICENSE) file for details.

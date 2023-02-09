@@ -30,7 +30,7 @@ const Sidebar = ({ toggleDownloads, displayDownloads }) => {
                     <ul onClick={onClose}>
                         <li><a href="#downloads" onClick={toggleDownloads}><img src={ICON.DOWNLOAD} className={styles.icon} alt="download icon" />Downloads</a></li>
                         <li><a href="#settings"><GearIcon className={styles.icon} />Settings</a></li>
-                        <li className={styles.profile}><a href="#profile"><ProfileIcon className={styles.icon} />AykutSrch</a></li>
+                        <li className={styles.profile}><a href="https://github.com/yonatankumsa"><ProfileIcon className={styles.icon} />Yonatan Kumsa</a></li>
                     </ul>
                 </nav>
             </div>
